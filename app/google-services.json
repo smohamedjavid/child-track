@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794206460103",
+    "firebase_url": "https://child-track-17143.firebaseio.com",
+    "project_id": "child-track-17143",
+    "storage_bucket": "child-track-17143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794206460103:android:0a3bfe18674da1e2",
+        "android_client_info": {
+          "package_name": "com.javid.android.childtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794206460103-uhjj3p6i7gvnlkdpt46rpafmefeciqq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javid.android.childtrack",
+            "certificate_hash": "3223dd3726de3467e0e795704861ca85780ed30d"
+          }
+        },
+        {
+          "client_id": "794206460103-eq3cj3etgg6fcub5seeoda7k07ldnr3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiPWls3Lp2WUCnUi7al9McYcsdGXuhVCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794206460103-eq3cj3etgg6fcub5seeoda7k07ldnr3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
